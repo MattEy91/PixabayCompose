@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PixabayCompose</string>
+    <string name="search_screen_title">Pixabay</string>
+    <string name="search_hint">Enter something you want to search for</string>
+    <string name="error_occurred">An error occurred…</string>
+    <string name="detail_likes">%1$d likes</string>
+    <string name="detail_downloads">%1$d downloads</string>
+    <string name="detail_comments">%1$d comments</string>
+    <string name="detail_button_back">Back</string>
+</resources>
