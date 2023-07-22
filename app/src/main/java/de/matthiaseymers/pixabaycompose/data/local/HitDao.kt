@@ -1,6 +1,7 @@
-package de.matthiaseymers.pixabaycompose.data.local.entity
+package de.matthiaseymers.pixabaycompose.data.local
 
 import androidx.room.*
+import de.matthiaseymers.pixabaycompose.data.local.entity.HitEntity
 
 @Dao
 interface HitDao {

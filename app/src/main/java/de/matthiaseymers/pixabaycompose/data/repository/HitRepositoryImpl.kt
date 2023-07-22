@@ -1,6 +1,6 @@
 package de.matthiaseymers.pixabaycompose.data.repository
 
-import de.matthiaseymers.pixabaycompose.data.local.entity.HitDao
+import de.matthiaseymers.pixabaycompose.data.local.HitDao
 import de.matthiaseymers.pixabaycompose.data.remote.PixabayApi
 import de.matthiaseymers.pixabaycompose.domain.model.SearchHitEvent
 import de.matthiaseymers.pixabaycompose.domain.repository.HitRepository

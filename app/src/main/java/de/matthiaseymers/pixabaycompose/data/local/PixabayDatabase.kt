@@ -2,7 +2,6 @@ package de.matthiaseymers.pixabaycompose.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import de.matthiaseymers.pixabaycompose.data.local.entity.HitDao
 import de.matthiaseymers.pixabaycompose.data.local.entity.HitEntity
 
 @Database(
